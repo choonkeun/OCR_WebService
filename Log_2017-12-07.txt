@@ -1,0 +1,105 @@
+
+2017-12-07 12:42:18 - eurotext.tif
+2017-12-07 12:42:20 - Page 1: MeanConfidence:0.88
+2017-12-07 12:51:54 - 941000.TIF
+2017-12-07 12:51:55 - Page 1: MeanConfidence:0.85
+2017-12-07 12:51:58 - Page 2: MeanConfidence:0.87
+2017-12-07 12:52:01 - Page 3: MeanConfidence:0.89
+2017-12-07 13:05:45 - 30Pages.tiff
+2017-12-07 13:05:56 - Page 1: MeanConfidence:0.84
+2017-12-07 13:06:00 - Page 2: MeanConfidence:0.88
+2017-12-07 13:06:11 - Page 3: MeanConfidence:0.85
+2017-12-07 13:06:16 - Page 4: MeanConfidence:0.94
+2017-12-07 13:06:30 - Page 5: MeanConfidence:0.84
+2017-12-07 13:06:43 - Page 6: MeanConfidence:0.84
+2017-12-07 13:06:57 - Page 7: MeanConfidence:0.84
+2017-12-07 13:07:19 - Page 8: MeanConfidence:0.79
+2017-12-07 13:07:32 - Page 9: MeanConfidence:0.84
+2017-12-07 13:07:47 - Page 10: MeanConfidence:0.84
+2017-12-07 13:08:00 - Page 11: MeanConfidence:0.84
+2017-12-07 13:08:14 - Page 12: MeanConfidence:0.84
+2017-12-07 13:08:28 - Page 13: MeanConfidence:0.84
+2017-12-07 13:08:42 - Page 14: MeanConfidence:0.84
+2017-12-07 13:08:55 - Page 15: MeanConfidence:0.84
+2017-12-07 13:09:09 - Page 16: MeanConfidence:0.84
+2017-12-07 13:09:23 - Page 17: MeanConfidence:0.84
+2017-12-07 13:09:36 - Page 18: MeanConfidence:0.84
+2017-12-07 13:09:50 - Page 19: MeanConfidence:0.84
+2017-12-07 13:10:04 - Page 20: MeanConfidence:0.84
+2017-12-07 13:10:19 - Page 21: MeanConfidence:0.84
+2017-12-07 13:10:35 - Page 22: MeanConfidence:0.84
+2017-12-07 13:10:51 - Page 23: MeanConfidence:0.84
+2017-12-07 13:11:06 - Page 24: MeanConfidence:0.84
+2017-12-07 13:11:21 - Page 25: MeanConfidence:0.84
+2017-12-07 13:11:35 - Page 26: MeanConfidence:0.84
+2017-12-07 13:11:49 - Page 27: MeanConfidence:0.84
+2017-12-07 13:12:03 - Page 28: MeanConfidence:0.84
+2017-12-07 13:12:17 - Page 29: MeanConfidence:0.84
+2017-12-07 13:12:32 - Page 30: MeanConfidence:0.84
+2017-12-07 13:12:32 - Page 31: MeanConfidence:0
+2017-12-07 13:19:26 - Page 8: MeanConfidence:0.79
+2017-12-07 13:19:40 - Page 9: MeanConfidence:0.84
+2017-12-07 13:19:55 - Page 10: MeanConfidence:0.84
+2017-12-07 13:20:10 - Page 11: MeanConfidence:0.84
+2017-12-07 13:20:24 - Page 12: MeanConfidence:0.84
+2017-12-07 13:20:39 - Page 13: MeanConfidence:0.84
+2017-12-07 13:20:54 - Page 14: MeanConfidence:0.84
+2017-12-07 13:21:08 - Page 15: MeanConfidence:0.84
+2017-12-07 13:21:25 - Page 16: MeanConfidence:0.84
+2017-12-07 13:21:41 - Page 17: MeanConfidence:0.84
+2017-12-07 13:21:56 - Page 18: MeanConfidence:0.84
+2017-12-07 13:22:11 - Page 19: MeanConfidence:0.84
+2017-12-07 13:22:26 - Page 20: MeanConfidence:0.84
+2017-12-07 13:22:41 - Page 21: MeanConfidence:0.84
+2017-12-07 13:22:57 - Page 22: MeanConfidence:0.84
+2017-12-07 13:23:12 - Page 23: MeanConfidence:0.84
+2017-12-07 13:23:26 - Page 24: MeanConfidence:0.84
+2017-12-07 13:23:41 - Page 25: MeanConfidence:0.84
+2017-12-07 13:23:57 - Page 26: MeanConfidence:0.84
+2017-12-07 13:24:12 - Page 27: MeanConfidence:0.84
+2017-12-07 13:24:27 - Page 28: MeanConfidence:0.84
+2017-12-07 13:24:41 - Page 29: MeanConfidence:0.84
+2017-12-07 13:24:56 - Page 30: MeanConfidence:0.84
+2017-12-07 13:24:56 - Page 31: MeanConfidence:0
+2017-12-07 13:34:17 - 941000.TIF
+2017-12-07 13:34:19 - Page 1: MeanConfidence:0.85
+2017-12-07 13:34:23 - Page 2: MeanConfidence:0.87
+2017-12-07 13:34:26 - Page 3: MeanConfidence:0.89
+2017-12-07 13:34:47 - 941104-1.jpg MeanConfidence:0.81
+2017-12-07 13:35:24 - 30Pages.tiff
+2017-12-07 13:35:38 - Page 1: MeanConfidence:0.84
+2017-12-07 13:35:42 - Page 2: MeanConfidence:0.88
+2017-12-07 13:35:55 - Page 3: MeanConfidence:0.85
+2017-12-07 13:36:00 - Page 4: MeanConfidence:0.94
+2017-12-07 13:36:18 - Page 5: MeanConfidence:0.84
+2017-12-07 13:36:36 - Page 6: MeanConfidence:0.84
+2017-12-07 13:36:53 - Page 7: MeanConfidence:0.84
+2017-12-07 13:37:23 - Page 8: MeanConfidence:0.79
+2017-12-07 13:37:41 - Page 9: MeanConfidence:0.84
+2017-12-07 13:38:00 - Page 10: MeanConfidence:0.84
+2017-12-07 13:38:18 - Page 11: MeanConfidence:0.84
+2017-12-07 13:38:36 - Page 12: MeanConfidence:0.84
+2017-12-07 13:38:54 - Page 13: MeanConfidence:0.84
+2017-12-07 13:39:12 - Page 14: MeanConfidence:0.84
+2017-12-07 13:39:30 - Page 15: MeanConfidence:0.84
+2017-12-07 13:39:48 - Page 16: MeanConfidence:0.84
+2017-12-07 13:40:07 - Page 17: MeanConfidence:0.84
+2017-12-07 13:40:26 - Page 18: MeanConfidence:0.84
+2017-12-07 13:40:44 - Page 19: MeanConfidence:0.84
+2017-12-07 13:41:01 - Page 20: MeanConfidence:0.84
+2017-12-07 13:41:15 - Page 21: MeanConfidence:0.84
+2017-12-07 13:41:30 - Page 22: MeanConfidence:0.84
+2017-12-07 13:41:45 - Page 23: MeanConfidence:0.84
+2017-12-07 13:41:59 - Page 24: MeanConfidence:0.84
+2017-12-07 13:42:13 - Page 25: MeanConfidence:0.84
+2017-12-07 13:42:27 - Page 26: MeanConfidence:0.84
+2017-12-07 13:42:41 - Page 27: MeanConfidence:0.84
+2017-12-07 13:42:55 - Page 28: MeanConfidence:0.84
+2017-12-07 13:43:09 - Page 29: MeanConfidence:0.84
+2017-12-07 13:43:23 - Page 30: MeanConfidence:0.84
+2017-12-07 13:43:24 - Page 31: MeanConfidence:0
+2017-12-07 13:51:51 - 941000.TIF
+2017-12-07 13:51:52 - Page 1: MeanConfidence:0.85
+2017-12-07 13:51:56 - Page 2: MeanConfidence:0.87
+2017-12-07 13:51:59 - Page 3: MeanConfidence:0.89
+2017-12-07 13:52:19 - number.jpg MeanConfidence:0.83
